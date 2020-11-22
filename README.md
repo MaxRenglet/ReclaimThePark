@@ -6,7 +6,7 @@ Wordpress theme based on [Bathe](https://ixkaito.github.io/bathe/)
 
 ### On the server :
 - [Wordpress](https://wordpress.org/) 5.5.x
-- [NPM](https://www.npmjs.com/) > 12 or (yarn)[https://yarnpkg.com/]
+- [NPM](https://www.npmjs.com/) > 12 or [yarn](https://yarnpkg.com/)
 
 ## Install
 
