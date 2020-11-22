@@ -122,7 +122,7 @@ function my_acf_admin_head() {
 		$widgets = get_field('widgets', get_the_id());
 		foreach ($widgets as $key => $widget) {
 			$name = $widget['acf_fc_layout'];
-			require (get_template_directory(). '/widgets/'.$name.'.php');
+			require (get_template_directory(). '/template-parts/widgets/'.$name.'.php');
 		}
 		
 
